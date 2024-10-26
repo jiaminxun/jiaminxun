@@ -42,7 +42,7 @@ custom_proxy_group=🇭🇰 香港`url-test`(香港实验性 IEPL|香港高级 I
 custom_proxy_group=🇯🇵 日本`url-test`(日本实验性 IEPL|日本高级 IEPL|日本标准 IEPL)`http://www.gstatic.com/generate_204`3600,,10
 custom_proxy_group=🇸🇬 新加坡`url-test`(新加坡实验性 IEPL|新加坡高级 IEPL|新加坡标准 IEPL)`http://www.gstatic.com/generate_204`3600,,10
 custom_proxy_group=🇺🇲 美国`url-test`(美国实验性 IEPL|美国高级 IEPL|美国标准 IEPL)`http://www.gstatic.com/generate_204`3600,,10
-custom_proxy_group=🇨🇳 台湾`url-test`(台湾高级 IEPL|台湾标准 IEPL)`http://www.gstatic.com/generate_204`3600,,10
+custom_proxy_group=🇨🇳 台湾`url-test`(台湾实验性 IEPL|台湾高级 IEPL|台湾标准 IEPL)`http://www.gstatic.com/generate_204`3600,,10
 
 ;设置分组标志位
 
