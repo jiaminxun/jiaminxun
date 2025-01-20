@@ -1,0 +1,394 @@
+proxy-groups:
+  - name: 🚀 节点选择
+    icon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Proxy.png
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - 🕹️ 手动切换
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🕹️ 手动切换
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Hand.png
+    include-all: true
+    type: select
+  - name: ♻️ 自动选择
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Auto.png
+    type: url-test
+    include-all: true
+    interval: 300
+    tolerance: 50
+  - name: 🅱️ Blacked
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Blacked.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇺🇲 美国
+      - 🇺🇸 USA San Jose 01 [Premium]
+      - 🇺🇸 USA San Jose 02 [Premium]
+      - 🇺🇸 USA San Jose 03 [Premium]
+      - 🇺🇸 USA San Jose 04 [Premium]
+      - 🇺🇸 USA San Jose 05 [Premium]
+      - 🇺🇸 USA San Jose 06 [Premium]
+  - name: 🔞 Dmm r18
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Dmm.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇯🇵 日本
+      - 🇯🇵 Japan 22 [Premium]
+      - 🇯🇵 Japan 23 [Premium]
+  - name: 📟 Twitter
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/twitter-x-logo.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+  - name: 📲 Telegram
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Telegram.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+  - name: 📹 YouTube
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/youtube.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+  - name: 🎥 Netflix
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Netflix.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+  - name: 🤳 Instagram
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/instagram.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+  - name: 🍎 苹果服务
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Apple.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: Ⓜ️ Microsoft
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Microsoft.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🇬 Google
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Google.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🌐 国外网站
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Global.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🌍 国外媒体
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/GlobalMedia.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🌏 国内媒体
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/ChinaMedia.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🎯 全球直连
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Direct.png
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - ♻️ 自动选择
+  - name: 🛑 广告拦截
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Reject.png
+    type: select
+    proxies:
+      - REJECT
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Final.png
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+      - DIRECT
+  - name: 🇭🇰 香港
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/HK.png
+    include-all: true
+    filter: (?i)港|HK|hk|Hong Kong|HongKong|hongkong
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 🇯🇵 日本
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/JP.png
+    include-all: true
+    filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 🇺🇲 美国
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/US.png
+    include-all: true
+    filter: (?i)美国|USA|🇺🇸
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 🇨🇳 台湾
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/tw.png
+    include-all: true
+    filter: (?i)台|新北|彰化|TW|Taiwan
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 🇸🇬 新加坡
+    icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/SG.png
+    include-all: true
+    filter: (?i)新加坡|坡|狮城|SG|Singapore
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - icon: https://raw.githubusercontent.com/jiaminxun/jiaminxun/refs/heads/master/Global.png
+    include-all: true
+    proxies:
+      - 🚀 节点选择
+      - 🕹️ 手动切换
+      - ♻️ 自动选择
+      - 🇭🇰 香港
+      - 🇯🇵 日本
+      - 🇺🇲 美国
+      - 🇸🇬 新加坡
+      - 🇨🇳 台湾
+    name: GLOBAL
+    type: select
+
+
+rule-providers:
+  Advertising:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AdvertisingLite/AdvertisingLite.list
+    path: ./ruleset/AdvertisingLite.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Blacked:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiaminxun/jiaminxun/master/vixen.list
+    path: ./ruleset/vixen.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Dmm r18:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiaminxun/jiaminxun/master/dmm.list
+    path: ./ruleset/dmm.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Twitter:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Twitter/Twitter.list
+    path: ./ruleset/Twitter.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Telegram:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Telegram/Telegram.list
+    path: ./ruleset/Telegram.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  YouTube:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/YouTube/YouTube.list
+    path: ./ruleset/YouTube.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Netflix:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Netflix/Netflix.list
+    path: ./ruleset/Netflix.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Instagram:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Instagram/Instagram.list
+    path: ./ruleset/Instagram.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Global:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
+    path: ./ruleset/Global.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Apple:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.list
+    path: ./ruleset/Apple.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Microsoft:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Microsoft/Microsoft.list
+    path: ./ruleset/Microsoft.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  Google:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Loon/Google/Google.list
+    path: ./ruleset/Google.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  GlobalMedia:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GlobalMedia/GlobalMedia.list
+    path: ./ruleset/GlobalMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaMedia:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMedia/ChinaMedia.list
+    path: ./ruleset/ChinaMedia.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  ChinaMax:
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaMax/ChinaMax.list
+    path: ./ruleset/ChinaMax.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+
+rules:
+  - "RULE-SET,Advertising,🛑 广告拦截"
+  - "RULE-SET,Blacked,🅱️ Blacked"
+  - "RULE-SET,Dmm r18,🔞 Dmm r18"
+  - "RULE-SET,Twitter,📟 Twitter"
+  - "RULE-SET,Telegram,📲 Telegram"
+  - "RULE-SET,YouTube,📹 YouTube"
+  - "RULE-SET,Netflix,🎥 Netflix"
+  - "RULE-SET,Instagram,🤳 Instagram"
+  - "RULE-SET,Apple,🍎 苹果服务"
+  - "RULE-SET,Microsoft,Ⓜ️ Microsoft"
+  - "RULE-SET,Google,🇬 Google"
+  - "RULE-SET,GlobalMedia,🌍 国外媒体"
+  - "RULE-SET,Global,🌐 国外网站"
+  - "RULE-SET,ChinaMedia,🌏 国内媒体"
+  - "RULE-SET,ChinaMax,🎯 全球直连"
+  - "GEOIP,CN,🎯 全球直连"
+  - "MATCH,🐟 漏网之鱼"
